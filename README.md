@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Vianey </h1>
-<h3 align="center">Soy una Frontend and Backend Developer apasionado</h3>
+<h3 align="center">Soy Frontend and Backend Developer apasionada</h3>
 
 - 👨‍💻 All of my projects are available at [vianey.pro](vianey.pro)
 
