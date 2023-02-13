@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Vianey </h1>
-<h3 align="center">Soy Frontend and Backend Developer apasionada</h3>
+<h3 align="center">Soy una Desarrolladora de Frontend and Backend</h3>
 
 - 💬 Ask me about **HTML, CSS, SCSS, javascript, Angular, ReactJS, PHP, Laravel, Python, Java, NODE.js, MySQL, PostgreSQL, MongoDB**
 
