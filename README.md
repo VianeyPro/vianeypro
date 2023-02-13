@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Vianey </h1>
 <h3 align="center">Soy una Desarrolladora de Front-end y Back-end</h3>
 
-- 💬 Ask me about **HTML, CSS, SCSS, javascript, PHP, Laravel, Python, Java, NODE.js, MySQL, PostgreSQL, MongoDB**
+- 💬 Ask me about **HTML, CSS, SCSS, javascript, PHP, Python, Java, NODE.js, MySQL, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **contacto@vianey.pro**
 
